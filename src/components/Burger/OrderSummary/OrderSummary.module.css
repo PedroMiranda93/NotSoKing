@@ -1,0 +1,12 @@
+.Modal span {
+    text-transform: capitalize;
+}
+
+.Button {
+    color: tomato;
+    background-color: none;
+    border: none;
+    text-align: center;
+    font: bold;
+    flex: content;
+}
